@@ -1,0 +1,24 @@
+body {
+  background-color:azure;
+}
+
+.list {
+  font-family:sans-serif;
+}
+
+.list li {
+  text-align:center;
+  color:greenyellow;
+}
+
+#header1 {
+  color:blue;
+}
+
+#header2 {
+  color:green;
+}
+
+#header3 {
+  color:red;
+}
